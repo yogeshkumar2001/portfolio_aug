@@ -1,0 +1,3 @@
+# .eslintignore
+src/some-directory/
+src/some-file.tsx
