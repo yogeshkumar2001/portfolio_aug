@@ -34,7 +34,7 @@ export const projects = [
     title: "Frontend Skills",
     description:
       "",
-    link: "https://stripe.com",
+    link: "",
     logos:[ { logo: <FaHtml5 key="html" size={30} title="HTML" />, title: "HTML" },
       { logo: <FaCss3Alt key="css" size={30} title="CSS" />, title: "CSS" },
       { logo: <FaJsSquare key="js" size={30} title="JavaScript" />, title: "JavaScript" },
@@ -50,7 +50,7 @@ export const projects = [
     title: "Backend Skills",
     description:
       "",
-    link: "https://netflix.com",
+    link: "",
     logos:[{ logo: <FaNodeJs key="nodejs" size={30} title="Node.js" />, title: "Node.js" },
       { logo: <MdApi key="api" size={30} title="REST API" />, title: "REST API" },
       { logo: <FaGoogle key="google" size={30} title="Google Authentication" />, title: "GAuth" },
